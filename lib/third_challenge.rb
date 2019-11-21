@@ -25,6 +25,9 @@ def third_challenge
       :heroine_friends => []
    }
   }
-
   
 end
+
+#hash = {a: 2, b: 3}
+
+#hash = {:a => 2}
