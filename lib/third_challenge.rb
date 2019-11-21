@@ -28,6 +28,13 @@ def third_challenge
   
 end
 
-#hash = {a: 2, b: 3}
+#hash = {
+#  a: 2, 
+#  b: 3,
+#  c: {
+#     aa: 1,
+#     bb: 2   
+#   }
+#}
 
-#hash = {:a => 2}
+#hash = {:a => 2, :b => 3}
